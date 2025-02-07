@@ -1,0 +1,7 @@
+.chainlit
+data/*
+myenv
+db/*
+!.gitkeep
+*.gguf
+chainlit.md
